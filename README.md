@@ -2,8 +2,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/pypi/v/vikrant-obliteratus?color=blue&label=PyPI" alt="PyPI version">
-  <img src="https://img.shields.io/github/license/vikrant-project/vikrant-OBLITERATUS?color=green" alt="License">
-  <img src="https://img.shields.io/github/actions/workflow/status/vikrant-project/vikrant-OBLITERATUS/ci.yml?label=Tests" alt="Tests">
+  <img src="https://img.shields.io/github/license/vikrantproject/vikrant-OBLITERATUS?color=green" alt="License">
+  <img src="https://img.shields.io/github/actions/workflow/status/vikrantproject/vikrant-OBLITERATUS/ci.yml?label=Tests" alt="Tests">
   <img src="https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-Space-yellow" alt="HF Space">
   <img src="https://img.shields.io/badge/Python-3.10%2B-blue" alt="Python">
 </p>
@@ -69,7 +69,7 @@ pip install vikrant-obliteratus[all]
 ### From Source
 
 ```bash
-git clone https://github.com/vikrant-project/vikrant-OBLITERATUS.git
+git clone https://github.com/vikrantproject/vikrant-OBLITERATUS.git
 cd vikrant-OBLITERATUS
 pip install -e .
 ```
@@ -133,7 +133,7 @@ result = pipeline.run()
   title     = {vikrant-OBLITERATUS: Advanced Abliteration Framework},
   author    = {Vikrant},
   year      = {2026},
-  url       = {https://github.com/vikrant-project/vikrant-OBLITERATUS}
+  url       = {https://github.com/vikrantproject/vikrant-OBLITERATUS}
 }
 ```
 
@@ -145,4 +145,4 @@ AGPL-3.0 (open source) + Commercial dual-license
 
 ---
 
-**Developed by Vikrant** | [GitHub](https://github.com/vikrant-project/vikrant-OBLITERATUS) | [HuggingFace](https://huggingface.co/spaces/vikrant-project/vikrant-obliteratus)
+**Developed by Vikrant** | [GitHub](https://github.com/vikrantproject/vikrant-OBLITERATUS) | [HuggingFace](https://huggingface.co/spaces/vikrantproject/vikrant-obliteratus)
