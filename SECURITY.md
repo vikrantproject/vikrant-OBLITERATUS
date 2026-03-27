@@ -37,4 +37,4 @@ Please include:
 
 ## Security Updates
 
-Security patches are released as needed. Subscribe to [GitHub Releases](https://github.com/vikrant-project/vikrant-OBLITERATUS/releases).
+Security patches are released as needed. Subscribe to [GitHub Releases](https://github.com/vikrantproject/vikrant-OBLITERATUS/releases).
