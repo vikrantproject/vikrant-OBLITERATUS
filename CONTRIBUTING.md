@@ -13,7 +13,7 @@ Thank you for your interest in contributing! We welcome contributions from the r
 ## Development Setup
 
 ```bash
-git clone https://github.com/vikrant-project/vikrant-OBLITERATUS.git
+git clone https://github.com/vikrantproject/vikrant-OBLITERATUS.git
 cd vikrant-OBLITERATUS
 pip install -e .[dev]
 ```
